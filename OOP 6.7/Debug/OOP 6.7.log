@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Asus\Desktop\ООП 6.7\OOP 6.7\Source.cpp(42,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\Desktop\ООП 6.7\OOP 6.7\Source.cpp(58): message : выполняется компиляция ссылки на экземпляр шаблон функции "void print<int>(T *,size_t)"
+          with
+          [
+              T=int
+          ]
+  OOP 6.7.vcxproj -> C:\Users\Asus\Desktop\ООП 6.7\OOP 6.7\Debug\OOP 6.7.exe
